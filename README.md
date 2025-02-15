@@ -1,5 +1,7 @@
 # Simple sample example of Java Springboot
 Assuming you have Java and Maven installed
+- https://adoptium.net/download/
+- https://maven.apache.org/download.cgi
 
 ## To execute
 - mvn clean install 
