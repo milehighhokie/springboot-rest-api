@@ -1,4 +1,4 @@
-# Simple sample example of Java Springboot
+# Simple sample example of Java Spring Boot
 Assuming you have Java and Maven installed
 - https://adoptium.net/download/
 - https://maven.apache.org/download.cgi
